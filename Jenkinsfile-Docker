@@ -1,0 +1,6 @@
+@Library('todoshop') _
+
+docker (
+         COMPONENT             : 'login',
+         PROJECT_NAME          : "todoshop"
+)
